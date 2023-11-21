@@ -1,4 +1,4 @@
-### Hello I'm Makhova Valeriya 
+### Hello I'm [Valeriya]
 
 ### I'm Python Developer
 
