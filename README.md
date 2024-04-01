@@ -1,6 +1,6 @@
 ### Hello I'm Valeriya
 
-### I'm Python Developer
+### I'm C++ Developer
 
 I like
 - :computer: coding
